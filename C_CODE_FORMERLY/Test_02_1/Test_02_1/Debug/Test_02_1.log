@@ -1,0 +1,4 @@
+﻿  Test_02_1.c
+C:\Users\13279\Desktop\Test\Test_02_1\Test_02_1\Test_02_1.c(3,23): warning C4114: 多次使用同一类型限定符
+C:\Users\13279\Desktop\Test\Test_02_1\Test_02_1\Test_02_1.c(3,28): warning C4091: “typedef ”: 没有声明变量时忽略“unsigned __int64”的左侧
+  Test_02_1.vcxproj -> C:\Users\13279\Desktop\Test\Test_02_1\Debug\Test_02_1.exe
