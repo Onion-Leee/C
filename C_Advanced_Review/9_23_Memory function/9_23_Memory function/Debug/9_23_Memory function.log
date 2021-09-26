@@ -1,0 +1,3 @@
+﻿  Memory function.c
+E:\Study\C\C_Advanced_Review\9_23_Memory function\9_23_Memory function\Memory function.c(94,1): warning C4047: “初始化”:“int”与“void *”的间接级别不同
+  9_23_Memory function.vcxproj -> E:\Study\C\C_Advanced_Review\9_23_Memory function\Debug\9_23_Memory function.exe

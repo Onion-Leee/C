@@ -1,0 +1,4 @@
+﻿  Bubble_Sort.c
+E:\Study\C\C_Advanced_Review\9_20_Pointer_3\9_20_Pointer_3\Bubble_Sort.c(12,15): warning C4013: “strcmp”未定义；假设外部返回 int
+E:\Study\C\C_Advanced_Review\9_20_Pointer_3\9_20_Pointer_3\Bubble_Sort.c(49,15): warning C4133: “函数”: 从“stu [3]”到“char *”的类型不兼容
+  9_20_Pointer_3.vcxproj -> E:\Study\C\C_Advanced_Review\9_20_Pointer_3\Debug\9_20_Pointer_3.exe
