@@ -1,0 +1,21 @@
+﻿  Contact.c
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(8,33): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(8,69): warning C4312: “类型强制转换”: 从“int”转换到更大的“PersonInfo *”
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(21,12): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(31,46): warning C4013: “realloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(31,99): warning C4312: “类型强制转换”: 从“int”转换到更大的“PersonInfo *”
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(57,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(57,8): message : 请考虑在格式字符串中使用“%hd”
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(47,8): warning C4101: “name”: 未引用的局部变量
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(48,8): warning C4101: “sex”: 未引用的局部变量
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(51,8): warning C4101: “age”: 未引用的局部变量
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(49,8): warning C4101: “tel”: 未引用的局部变量
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(50,8): warning C4101: “addr”: 未引用的局部变量
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(169,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(169,10): message : 请考虑在格式字符串中使用“%hd”
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(217,6): warning C4013: “free”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(250,14): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“short *”
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\Test_04_20_work1\Contact.c(250,14): message : 请考虑在格式字符串中使用“%hd”
+  ContactMain.c
+  正在生成代码...
+  Test_04_20_work1.vcxproj -> C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_20_work1\x64\Debug\Test_04_20_work1.exe

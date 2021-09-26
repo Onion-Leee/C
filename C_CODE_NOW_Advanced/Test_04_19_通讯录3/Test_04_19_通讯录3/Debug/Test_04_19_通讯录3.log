@@ -1,0 +1,34 @@
+﻿  contact.c
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(48,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(48,8): message : 请考虑在格式字符串中使用“%hd”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(67,43): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(67,43): warning C4024: “strcmp”: 形参和实参 2 的类型不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(92,26): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(92,26): warning C4024: “SEARCH2”: 形参和实参 2 的类型不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(121,26): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(121,26): warning C4024: “SEARCH2”: 形参和实参 2 的类型不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(127,9): warning C4477: “printf”: 格式字符串“%15s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PeoInfo *”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(127,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(127,9): message : 占位符和其参数预计 5 可变参数，但提供的却是 1 参数
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(127,9): message : 缺失的可变参数 2 为格式字符串“%5d”所需
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(147,27): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(147,27): warning C4024: “SEARCH2”: 形参和实参 2 的类型不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(165,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(159,8): warning C4102: “case1”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(163,8): warning C4102: “case2”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(167,8): warning C4102: “case3”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(171,8): warning C4102: “case4”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(175,8): warning C4102: “case5”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(189,1): warning C4028: 形参 1 与声明不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(192,9): warning C4477: “printf”: 格式字符串“%5d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(195,10): warning C4477: “printf”: 格式字符串“%15s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PeoInfo *const ”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(195,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(195,10): message : 占位符和其参数预计 5 可变参数，但提供的却是 1 参数
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(195,10): message : 缺失的可变参数 2 为格式字符串“%5d”所需
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(244,11): warning C4013: “​fclose”未定义；假设外部返回 int
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(247,6): error C2054: 在“​”之后应输入“(”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(248,1): error C2082: 形参“SaveContact”的重定义
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\contact.c(248,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  Test.c
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_19_通讯录3\Test_04_19_通讯录3\Test.c(45,18): warning C4013: “DestroyContact”未定义；假设外部返回 int
+  正在生成代码...

@@ -1,0 +1,10 @@
+﻿  Contact.c
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_21_Contact\Test_04_21_Contact\Contact.h(16,2): warning C4091: “typedef ”: 没有声明变量时忽略“<unnamed-enum-QUIT>”的左侧
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_21_Contact\Test_04_21_Contact\Contact.c(8,28): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_21_Contact\Test_04_21_Contact\Contact.c(21,37): warning C4013: “ralloc”未定义；假设外部返回 int
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_21_Contact\Test_04_21_Contact\Contact.c(48,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“short *”
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_21_Contact\Test_04_21_Contact\Contact.c(48,8): message : 请考虑在格式字符串中使用“%hd”
+  Main.c
+C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_21_Contact\Test_04_21_Contact\Contact.h(16,2): warning C4091: “typedef ”: 没有声明变量时忽略“<unnamed-enum-QUIT>”的左侧
+  正在生成代码...
+  Test_04_21_Contact.vcxproj -> C:\Users\13279\Documents\Go fot it\C\C_CODE_NOW_Advanced\Test_04_21_Contact\Debug\Test_04_21_Contact.exe

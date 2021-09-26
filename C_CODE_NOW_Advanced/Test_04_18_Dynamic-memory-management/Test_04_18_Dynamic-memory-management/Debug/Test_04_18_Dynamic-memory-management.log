@@ -1,0 +1,5 @@
+﻿  Test.c
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_18_Dynamic-memory-management\Test_04_18_Dynamic-memory-management\Test.c(194,20): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_18_Dynamic-memory-management\Test_04_18_Dynamic-memory-management\Test.c(203,6): warning C4013: “free”未定义；假设外部返回 int
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_18_Dynamic-memory-management\Test_04_18_Dynamic-memory-management\Test.c(194,1): warning C4047: “初始化”:“type_a *”与“int”的间接级别不同
+  Test_04_18_Dynamic-memory-management.vcxproj -> C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_18_Dynamic-memory-management\Debug\Test_04_18_Dynamic-memory-management.exe

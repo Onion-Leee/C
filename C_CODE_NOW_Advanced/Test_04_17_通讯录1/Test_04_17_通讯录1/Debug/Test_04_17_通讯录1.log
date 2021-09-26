@@ -1,0 +1,31 @@
+﻿  Test.c
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\Test.c(43,18): warning C4013: “DestroyContact”未定义；假设外部返回 int
+  contact.c
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(47,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(47,8): message : 请考虑在格式字符串中使用“%hd”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(66,43): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(66,43): warning C4024: “strcmp”: 形参和实参 2 的类型不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(91,26): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(91,26): warning C4024: “SEARCH2”: 形参和实参 2 的类型不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(120,26): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(120,26): warning C4024: “SEARCH2”: 形参和实参 2 的类型不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(126,9): warning C4477: “printf”: 格式字符串“%15s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PeoInfo *”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(126,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(126,9): message : 占位符和其参数预计 5 可变参数，但提供的却是 1 参数
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(126,9): message : 缺失的可变参数 2 为格式字符串“%5d”所需
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(146,27): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(146,27): warning C4024: “SEARCH2”: 形参和实参 2 的类型不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(164,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(158,8): warning C4102: “case1”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(162,8): warning C4102: “case2”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(166,8): warning C4102: “case3”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(170,8): warning C4102: “case4”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(174,8): warning C4102: “case5”: 未引用的标签
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(188,1): warning C4028: 形参 1 与声明不同
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(191,9): warning C4477: “printf”: 格式字符串“%5d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(194,10): warning C4477: “printf”: 格式字符串“%15s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PeoInfo *const ”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(194,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(194,10): message : 占位符和其参数预计 5 可变参数，但提供的却是 1 参数
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Test_04_17_通讯录1\contact.c(194,10): message : 缺失的可变参数 2 为格式字符串“%5d”所需
+  正在生成代码...
+  Test_04_17_通讯录1.vcxproj -> C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录1\Debug\Test_04_17_通讯录1.exe

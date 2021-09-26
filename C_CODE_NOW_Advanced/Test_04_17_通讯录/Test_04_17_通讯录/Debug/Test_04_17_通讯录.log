@@ -1,0 +1,18 @@
+﻿  Test.c
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(9,1): error C2143: 语法错误: 缺少“{”(在“enum [tag]”的前面)
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(26,1): error C2061: 语法错误: 标识符“​”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(26,1): error C2059: 语法错误:“;”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(38,1): error C2061: 语法错误: 标识符“​”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(38,1): error C2059: 语法错误:“;”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(45,6): error C2054: 在“​”之后应输入“(”
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(45,32): error C2085: “InitContact”: 不在形参表中
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(46,31): error C2085: “AddContact”: 不在形参表中
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(47,31): error C2085: “DelContact”: 不在形参表中
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(48,32): error C2085: “FindContact”: 不在形参表中
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(49,34): error C2085: “ModifyContact”: 不在形参表中
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(50,38): error C2085: “ShowContact”: 不在形参表中
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(51,33): error C2085: “ClearContact”: 不在形参表中
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Contact.h(52,32): error C2085: “SortContact”: 不在形参表中
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Test.c(4,1): error C2085: “menu”: 不在形参表中
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Test.c(4,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_17_通讯录\Test_04_17_通讯录\Test.c(16,7): warning C4013: “menu”未定义；假设外部返回 int

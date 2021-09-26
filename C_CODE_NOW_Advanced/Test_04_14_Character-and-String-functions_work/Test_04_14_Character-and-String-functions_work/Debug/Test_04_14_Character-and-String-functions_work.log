@@ -1,0 +1,4 @@
+﻿  Test.c
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_14_Character-and-String-functions_work\Test_04_14_Character-and-String-functions_work\Test.c(20,16): warning C4090: “=”: 不同的“const”限定符
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_14_Character-and-String-functions_work\Test_04_14_Character-and-String-functions_work\Test.c(30): warning C4715: “my_strstr”: 不是所有的控件路径都返回值
+  Test_04_14_Character-and-String-functions_work.vcxproj -> C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_14_Character-and-String-functions_work\Debug\Test_04_14_Character-and-String-functions_work.exe

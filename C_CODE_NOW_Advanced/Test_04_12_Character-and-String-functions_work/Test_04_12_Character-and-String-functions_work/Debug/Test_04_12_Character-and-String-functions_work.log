@@ -1,0 +1,3 @@
+﻿  work.c
+C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_12_Character-and-String-functions_work\Test_04_12_Character-and-String-functions_work\work.c(14,2): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  Test_04_12_Character-and-String-functions_work.vcxproj -> C:\Users\13279\Desktop\C\GitHub_Clone\C_CODE_NOW_Advanced\Test_04_12_Character-and-String-functions_work\Debug\Test_04_12_Character-and-String-functions_work.exe
