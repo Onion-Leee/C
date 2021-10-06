@@ -1,2 +1,6 @@
-﻿  test.c
-  10_5_Contact.vcxproj -> E:\Study\C\C_Advanced_Review\10_5_Contact\Debug\10_5_Contact.exe
+﻿  contact.c
+E:\Study\C\C_Advanced_Review\10_5_Contact\10_5_Contact\contact.c(35,34): warning C4028: 形参 1 与声明不同
+E:\Study\C\C_Advanced_Review\10_5_Contact\10_5_Contact\contact.c(154,44): error C2106: “=”: 左操作数必须为左值
+E:\Study\C\C_Advanced_Review\10_5_Contact\10_5_Contact\contact.c(155,32): warning C4047: “=”:“char [20]”与“int”的间接级别不同
+E:\Study\C\C_Advanced_Review\10_5_Contact\10_5_Contact\contact.c(155,32): error C2106: “=”: 左操作数必须为左值
+E:\Study\C\C_Advanced_Review\10_5_Contact\10_5_Contact\contact.c(153,1): warning C4047: “初始化”:“int”与“char *”的间接级别不同
