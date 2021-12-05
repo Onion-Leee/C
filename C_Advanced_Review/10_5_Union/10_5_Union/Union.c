@@ -15,14 +15,26 @@
 //	return 0;
 //}
 
-int main()
+//int main()
+//{
+//	int i = 0;
+//	for (i++; i++ < 4;)
+//	{
+//		printf("%d", i);
+//	}
+//	printf("\n%d", i);
+//	return 0;
+//}
+#include<stdio.h> 
+int add(int x, int y) {
+	return x + y;
+}
+int main() 
 {
-	int i = 0;
-	for (i++; i++ < 4;)
-	{
-		printf("%d", i);
-	}
-	printf("\n%d", i);
+	int a = 10;
+	int b = 20;
+	int ret = add(a, b);
+	printf("%d", ret);
 	return 0;
 }
 
